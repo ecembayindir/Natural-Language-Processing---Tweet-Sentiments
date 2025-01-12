@@ -1,4 +1,4 @@
-<h1 align="center">Tweet Sentiment Analysis</h1>
+<h1 align="center">NLP - Tweet Sentiment Analysis</h1>
 
 <br/>
 
